@@ -54,7 +54,7 @@ RECIPIENT_TYPES = [
 
 AWARD_TYPE_CODES = ["02", "03", "04", "05"]  # grants + cooperative agreements
 
-FISCAL_YEARS = list(range(2020, 2026))
+FISCAL_YEARS = list(range(2020, 2025))
 
 RSRT_TERMS = {
     "Hypersonics":                          ["hypersonic"],
